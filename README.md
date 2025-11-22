@@ -38,4 +38,5 @@ CTRLD will set `localhost` as DNS Server.  <br/>
 
 # REFERENCE
 
-- https://docs.controld.com/docs/ctrld#/
+- https://docs.controld.com/docs/ctrld <br/>
+- https://docs.controld.com/docs/free-dns
